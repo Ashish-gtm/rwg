@@ -1,6 +1,6 @@
 {
-    "name": "rwg_international",
-    "short_name": "rwg_international",
+    "name": "rwginternational",
+    "short_name": "rwginternational",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
